@@ -1,0 +1,17 @@
+{
+	"AddGearUntar_ULACH": {
+        "Name": "Тяжелый шлем контингента ООН в Таркове",
+        "ShortName": "UNTAR",
+        "Description": "Стандартный тяжелый шлем солдата миссии ООН UNTAR в Таркове."
+    },
+	"AddGearUntar_GEN4_MOB": {
+        "Name": "Тяжелый бронежилет UNTAR",
+        "ShortName": "Full Body UN",
+        "Description": "Броня 4-го класса защиты, носимая солдатами контингента ООН в Таркове (миссия UNTAR)"
+    },
+	"AddGearUntar_BERET": {
+        "Name": "Светло-голубой берет",
+        "ShortName": "Берет",
+        "Description": "Светло-голубой берет. Используется солдатами контингента ООН UNTAR в Таркове."
+    }
+}

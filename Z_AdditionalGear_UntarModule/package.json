@@ -1,0 +1,10 @@
+{
+    "name": "AdditionalGear - UNTAR Module",
+    "author": "JustNU",
+    "version": "1.0.4",
+    "license": "NCSA",
+    "main": "package.js",
+	"dependencies": {
+        "A_JustNUCore": "1.0.0"
+    }
+}
